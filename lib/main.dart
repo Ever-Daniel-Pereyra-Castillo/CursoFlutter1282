@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:pereyracurso/mi_widgets/dialogo_acerca_de.dart';
+import 'package:pereyracurso/mi_widgets/lista.dart';
 
 const Color darkblue = Color(0xFF12202F);
 void main() => runApp(const MiTarjeta());
@@ -19,7 +19,7 @@ class MiTarjeta extends StatelessWidget {
           centerTitle: true,
         ),
         //body: const LaTarjeta(),
-        body: const DialogoAcercaDe(),
+        body: const Liston(),
       ),
     );
   }

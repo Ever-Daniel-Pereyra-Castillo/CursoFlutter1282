@@ -5,3 +5,7 @@
 
 ![la tarjeta](dialogo.jpg)
 ![la tarjeta](dialogor.jpg)
+
+## Ejemplode una lista 
+
+![la lista](dialogor.jpg)
