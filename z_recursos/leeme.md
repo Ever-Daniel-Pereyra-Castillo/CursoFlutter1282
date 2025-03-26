@@ -8,4 +8,6 @@
 
 ## Ejemplode una lista 
 
-![la lista](dialogor.jpg)
+
+![la lista](lista.jpg)
+![la lista](listar.jpg)
